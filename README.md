@@ -21,4 +21,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=just-umyt&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=just-umyt.just-umyt&"  />
+</div>
